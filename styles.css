@@ -203,6 +203,7 @@ a {
   margin: 1rem auto;
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 /* CONTACT  */
