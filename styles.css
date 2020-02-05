@@ -44,7 +44,7 @@ li:hover {
 
 span {
   font-size: 1.5rem;
-  background-color: ivory;
+  background-color: white;
   color: #009999;
   border-radius: 5px;
   padding: 0.2rem 0.7rem;
@@ -53,7 +53,7 @@ span {
 
 a {
   text-decoration: none;
-  color: ivory;
+  color: white;
 }
 
 .container {
@@ -79,7 +79,7 @@ a {
 
 /*ABOUT*/
 #about {
-  background-color: ivory;
+  background-color: white;
   display: flex;
   margin: 0 auto;
   width: 85%;
@@ -132,7 +132,7 @@ a {
   text-align: justify;
   width: 100%;
   margin: 0 auto;
-  background-color: ivory;
+  background-color: white;
 }
 
 .about__text--title {
@@ -146,7 +146,7 @@ a {
 
 #projects h3 {
   padding: 0;
-  background-color: ivory;
+  background-color: white;
   width: 85%;
   margin: 1rem auto 0;
 }
@@ -157,7 +157,7 @@ a {
   align-items: center;
   padding: 2rem;
   margin: 0 auto;
-  background-color: ivory;
+  background-color: white;
   border: 1px solid #f2f2f2;
   margin: 1rem auto;
   width: 85%;
@@ -208,7 +208,7 @@ a {
 
 /* CONTACT  */
 #contact {
-  background-color: ivory;
+  background-color: white;
   padding: 1rem;
   border: 1px solid #f2f2f2;
   width: 85%;
@@ -230,7 +230,7 @@ a {
 /* FOOTER  */
 #footer {
   padding: 1rem;
-  background-color: ivory;
+  background-color: white;
   border: 1px solid #f2f2f2;
   margin: 1rem;
   width: 85%;
