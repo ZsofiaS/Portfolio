@@ -121,7 +121,11 @@ a {
   margin-bottom: 1.6rem;
   text-align: left;
 }
-
+#about__contact {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
 .about__text--skills {
   display: flex;
   flex-direction: column;
@@ -274,7 +278,7 @@ a {
 
   .project__text,
   .project__image {
-    width: 75%;
+    width: 70%;
   }
 }
 
@@ -288,7 +292,6 @@ a {
   .about__container--right {
     width: 100%;
   }
-
   .project__text--tags {
     margin: 1rem auto 2rem;
   }
